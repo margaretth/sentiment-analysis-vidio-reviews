@@ -33,7 +33,7 @@ cd sentiment-analysis-vidio
 pip install -r requirements.txt
 ```
 
-3. Jalankan notebook:
+3. Run notebook:
 Open the file `SA_Vidio_app.ipynb`, use Jupyter Notebook or Google Colab.
 
 ## ✍️ Author
