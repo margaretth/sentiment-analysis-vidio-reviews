@@ -24,7 +24,7 @@ The model using Chi-Square feature selection achieved the best performance with 
 
 1. Clone repository:
 ```bash
-git clone https://github.com/username/sentiment-analysis-vidio.git
+git clone https://github.com/margaretth/sentiment-analysis-vidio.git
 cd sentiment-analysis-vidio
 ```
 
