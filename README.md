@@ -1,8 +1,8 @@
-# Sentiment Analysis Vidio reviews from Google Play Store
-This study aims to analyze the sentiment of user reviews on the **Vidio** application and compare the performance of the **Support Vector Machine** model with two feature selection techniques: **Chi-Square** and **Information Gain**. The classification is into positive and negative categories.
+# Sentiment Analysis ABC reviews from Google Play Store
+This study aims to analyze the sentiment of user reviews on the **ABC** application and compare the performance of the **Support Vector Machine** model with two feature selection techniques: **Chi-Square** and **Information Gain**. The classification is into positive and negative categories.
 
 ## 📌 Study Case
-The number of users of streaming applications continues to increase significantly, reflecting the growing role of streaming platforms in digital life. Vidio, a local streaming platform, dominates the Indonesian market and has outperformed foreign competitors. However, vidio still faces challenges in improving user satisfaction, as reflected by its relatively low rating. To remain competitive, it is necessary to enhance the application based on user experience, which can be explored through sentiment analysis.
+The number of users of streaming applications continues to increase significantly, reflecting the growing role of streaming platforms in digital life. ABC, a local streaming platform, dominates the Indonesian market and has outperformed foreign competitors. However, ABC still faces challenges in improving user satisfaction, as reflected by its relatively low rating. To remain competitive, it is necessary to enhance the application based on user experience, which can be explored through sentiment analysis.
 
 ## 🛠️ Methode
 - **Text preprocessing**: case folding, punctuation removal, normalization, tokenization, stemming, stopword removal
@@ -11,7 +11,7 @@ The number of users of streaming applications continues to increase significantl
 - **Model evaluation**: Blanced accuracy
 
 ## 📊 Results
-The model using Chi-Square feature selection achieved the best performance with a balanced accuracy of 93,63%, outperforming Information Gain. The results indicate that most user reviews are classified as negative sentiment, suggesting user feedback related to specific aspects of the application. Complaints from Vidio app users include subscription packages that remain inactive despite payment, and difficulties in accessing certain premium content, which in some cases cannot be opened even though users have subscribed according to their selected package.
+The model using Chi-Square feature selection achieved the best performance with a balanced accuracy of 93,63%, outperforming Information Gain. The results indicate that most user reviews are classified as negative sentiment, suggesting user feedback related to specific aspects of the application. Complaints from ABC app users include subscription packages that remain inactive despite payment, and difficulties in accessing certain premium content, which in some cases cannot be opened even though users have subscribed according to their selected package.
 
 ## 🧪 Tools & Library
 - Python
@@ -24,8 +24,8 @@ The model using Chi-Square feature selection achieved the best performance with 
 
 1. Clone repository:
 ```bash
-git clone https://github.com/margaretth/sentiment-analysis-vidio.git
-cd sentiment-analysis-vidio
+git clone https://github.com/margaretth/sentiment-analysis-ABC.git
+cd sentiment-analysis-ABC
 ```
 
 2. Install dependencies:
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ```
 
 3. Run notebook:
-Open the file `SA_Vidio_app.ipynb`, use Jupyter Notebook or Google Colab.
+Open the file `SA_ABC_app.ipynb`, use Jupyter Notebook or Google Colab.
 
 ## ✍️ Author
 Vitta Margaret – [LinkedIn](https://www.linkedin.com/in/vmargaretsnbl) | [GitHub](https://github.com/margaretth)
