@@ -1,5 +1,5 @@
 # Sentiment Analysis Vidio reviews from Google Play Store
-This study aims to analyze the sentiment of user reviews on the **Vidio** application and compare the performance of the **Support Vector Machine** model, and compare two feature selection techniques: **Chi-Square** and **Information Gain**. The classification is classifying into positive and negative categories.
+This study aims to analyze the sentiment of user reviews on the **Vidio** application and compare the performance of the **Support Vector Machine** model with two feature selection techniques: **Chi-Square** and **Information Gain**. The classification is into positive and negative categories.
 
 ## 📌 Study Case
 The number of users of streaming applications continues to increase significantly, reflecting the growing role of streaming platforms in digital life. Vidio, a local streaming platform, dominates the Indonesian market and has outperformed foreign competitors. However, vidio still faces challenges in improving user satisfaction, as reflected by its relatively low rating. To remain competitive, it is necessary to enhance the application based on user experience, which can be explored through sentiment analysis.
